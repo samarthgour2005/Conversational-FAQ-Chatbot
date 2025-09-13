@@ -32,8 +32,8 @@ It can **answer questions from your documents (PDFs)**, rerank results for bette
 ```bash
 📦 chatbot-project
 ┣ 📂 0.0_chat_bot_task
-┃ ┣ 📄 Getting_Started_with_Encrypta.pdf
-┃ ┣ 📄 Getting_Started_with_Password_Manager.pdf
+┃ ┣ 📄 data1.pdf
+┃ ┣ 📄 data2.pdf
 ┣ 📄 chatbot.py             # Main chatbot loop
 ┣ 📄 create_db.py           # Script to load & index documents into Qdrant
 ┣ 📄 .env                   # Store API keys & configs (not committed to git)
